@@ -1,0 +1,65 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="flask_migrate" />
+          <option value="flask_cors" />
+          <option value="flask_login" />
+          <option value="flask_wtf" />
+          <option value="python-dotenv" />
+          <option value="flask-socketio" />
+          <option value="eventlet" />
+          <option value="requests" />
+          <option value="httpx" />
+          <option value="websockets" />
+          <option value="dash" />
+          <option value="dash_bootstrap_components" />
+          <option value="psycopg2-binary" />
+          <option value="alembic" />
+          <option value="pyarrow" />
+          <option value="openpyxl" />
+          <option value="xlrd" />
+          <option value="scikit-learn" />
+          <option value="joblib" />
+          <option value="scipy" />
+          <option value="statsmodels" />
+          <option value="tensorflow" />
+          <option value="torch" />
+          <option value="torchvision" />
+          <option value="torchaudio" />
+          <option value="opencv-python" />
+          <option value="pillow" />
+          <option value="scikit-image" />
+          <option value="prophet" />
+          <option value="pmdarima" />
+          <option value="paho-mqtt" />
+          <option value="opcua" />
+          <option value="minimalmodbus" />
+          <option value="pyModbusTCP" />
+          <option value="loguru" />
+          <option value="rich" />
+          <option value="colorlog" />
+          <option value="tqdm" />
+          <option value="pyyaml" />
+          <option value="ujson" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="cryptography" />
+          <option value="pyjwt" />
+          <option value="pyserial" />
+          <option value="xlsxwriter" />
+          <option value="reportlab" />
+          <option value="onnx" />
+          <option value="onnxruntime" />
+          <option value="mlflow" />
+          <option value="faiss-cpu" />
+          <option value="edge_impulse_linux" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
